@@ -5,7 +5,7 @@ class SvdDataConan(ConanFile):
     version = "0.1"
     license = "MIT"
     author = "Matthew Knight <mgk1795@gmail.com>"
-    url = ""
+    url = "https://github.com/matt1795/svd-data"
     description = "Collection of SVD files for different MCUs"
     topics = ("embeded", "mcu", "svd")
     exports_sources = "data/*"
